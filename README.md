@@ -1,4 +1,4 @@
-### I'm Noura S.Hashemi. ^^
+### I'm Noura. ^^
 
 - 👓 I am a computer engineering graduate student from Tehran Polytechnic University. <br>
 - ☕️ I’m looking to collaborate with Open-Source Machine Learning projects <br>
